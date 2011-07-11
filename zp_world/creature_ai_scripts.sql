@@ -57,6 +57,7 @@ CREATE TABLE `creature_ai_scripts` (
 LOCK TABLES `creature_ai_scripts` WRITE;
 /*!40000 ALTER TABLE `creature_ai_scripts` DISABLE KEYS */;
 INSERT INTO `creature_ai_scripts` VALUES
+(1,478,2,0,100,0,15,0,0,0,25,0,0,0,1,-47,0,0,0,0,0,0,'Riverpaw Outrunner - Flee at 15% HP')
 (601,6,4,0,30,0,0,0,0,0,1,-7,-8,0,0,0,0,0,0,0,0,0,'Kobold Vermin - Random Say on Aggro'),
 (3001,30,11,0,100,0,0,0,0,0,11,11959,0,1,0,0,0,0,0,0,0,0,'Forest Spider - Cast Poison Proc on Spawn'),
 (3801,38,4,0,30,0,0,0,0,0,1,-2,-3,-4,0,0,0,0,0,0,0,0,'Defias Thug - Random Say on Aggro'),
